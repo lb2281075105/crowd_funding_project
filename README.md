@@ -5,5 +5,5 @@
 
 2. SSM环境搭建
 
-3.slf4j + logback日志输出
+3. slf4j + logback日志输出
 
